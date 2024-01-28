@@ -1,6 +1,5 @@
 {
   "name": "nodeunblocker.com",
-  "description": "Web proxy for evading internet censorship",
   "version": 2,
   "builds": [
     {
