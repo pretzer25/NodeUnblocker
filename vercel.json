@@ -10,9 +10,6 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "engines": {
-    "node": ">=6"
-  },
   "scripts": {
     "start": "node ./node_modules/gatling/gatling.js ./app.js"
   },
