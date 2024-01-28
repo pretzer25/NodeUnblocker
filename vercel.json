@@ -10,15 +10,6 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "dependencies": {
-    "express": "^4.13.0",
-    "gatling": "~1.2.0",
-    "newrelic": "^1.20.2",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "through": "^2.3.8",
-    "unblocker": "*"
-  },
   "engines": {
     "node": ">=6"
   },
