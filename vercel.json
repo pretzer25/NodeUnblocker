@@ -10,7 +10,6 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "private": true,
   "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
   "dependencies": {
     "express": "^4.13.0",
